@@ -1,0 +1,15 @@
+name: orca
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyter
+  - numpy
+  - pip
+  - rdkit
+  - pandas
+  - xtb
+  - crest
+  - matplotlib
+  - scipy
+
