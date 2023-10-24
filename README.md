@@ -1,7 +1,7 @@
 # Docker Image with Orca QM Engine
 Proper installation of Orca software is sometimes a tricky move, especially
 if it is intended to use on HPC cluster. This docker image with Orca 5.0.4, xTB,
-and Crest allows one to easily deploy readu-to-use QM machinery.
+and Crest allows one to easily deploy ready-to-use QM machinery.
 
 ## Build
 Acoording to Orca EULA, I am not allowed to distribute its binaries, so to build
